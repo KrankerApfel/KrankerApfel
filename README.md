@@ -1,16 +1,14 @@
-### Hi there 👋
+### ✨ Hello people ✨
 
-<!--
-**KrankerApfel/KrankerApfel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏳️‍⚧️ I'm known as KrankerApfel since my teenagehood.
 
-Here are some ideas to get you started:
+This is my personal account and I never deleted my old baby dev bad projects (〃￣ω￣〃)ゞ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am no longer a student but I feel like I still have a mountain of things to discover and learn🌸🪴
+
+My projects ideas change according to my current interests and my biggest dream is to have free time to code for myself with internet buddies and not for a company.
+Is that possible or am I just a big naive ?
+
+Anyway, enjoy your visit (｡•̀ᴗ-)✧
+
+💼 portfolio (🇫🇷) : https://krankerapfel.github.io

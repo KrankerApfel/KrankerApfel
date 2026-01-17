@@ -21,4 +21,5 @@ Feel free to message me if you’d like to work together on something we both en
 
 Anyway, thanks for stopping by, and enjoy your visit (｡•̀ᴗ-)✧
 
+🇬🇧 🇫🇷 🇩🇪 |🏳️‍⚧️ 
 💼 Portfolio (🇫🇷): https://krankerapfel.github.io

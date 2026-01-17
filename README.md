@@ -16,6 +16,7 @@ Here you’ll find prototypes, tools, software, and data related to:
 - 3D physics and rendering engines
 - Video games (mostly Unity, Python, or C++ with OpenGL)
 - VTuber tools (animated avatars for streamers)
+- Poetry metrics and analysis 
 
 Feel free to message me if you’d like to work together on something we both enjoy ~
 

@@ -6,7 +6,8 @@ This is my personal account, where I experiment with new ideas and contribute to
 ( why should I erase my teenage sweet memories? )
 
 I have many hobbies that all share one thing in common:
-they require a mix of deep technical knowledge and artistic creativity!
+
+**a mix of deep technical knowledge and artistic creativity!**
 
 Here you’ll find prototypes, tools, software, and data related to:
 
